@@ -1,6 +1,6 @@
 # INFOTRIXS
 
-
+CLICK TO VIEW THIS  :  adorable-griffin-10c326.netlify.app
 
 
 This is a simple tool that generates random quotes from a variety of sources. It can be used for inspiration, motivation, or just to add a little bit of fun to your day.
@@ -40,8 +40,3 @@ I would appreciate any feedback you have on this project. Please feel free to su
 
 Enjoy!
 
-
-
-CLICK TO VIEW THIS 
-
-adorable-griffin-10c326.netlify.app
